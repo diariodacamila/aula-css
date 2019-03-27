@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 217, 0);
+}
+h1{
+    color: rgb(99, 15, 67);
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: blue;
+    font-weight: 400;
+    text-decoration: underline;    
+}
+img{
+    height: 100px;
+    width: auto;
+    border-radius: 10%;
+}
